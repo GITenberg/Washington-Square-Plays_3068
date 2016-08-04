@@ -1,0 +1,50 @@
+_repo: Washington-Square-Plays_3068
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Eaton, Walter Prichard
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '31982'
+    url: http://www.gutenberg.org/2009/agents/31982
+creator:
+  authors:
+  - agent_name: Moeller, Philip
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '41105'
+    url: http://www.gutenberg.org/2009/agents/41105
+  - agent_name: Beach, Lewis
+    birthdate: 1891
+    gutenberg_agent_id: '37689'
+    url: http://www.gutenberg.org/2009/agents/37689
+  - agent_name: Goodman, Edward
+    birthdate: 1888
+    gutenberg_agent_id: '41712'
+    url: http://www.gutenberg.org/2009/agents/41712
+  - agent_name: Gerstenberg, Alice
+    birthdate: 1885
+    deathdate: 1972
+    gutenberg_agent_id: '37837'
+    url: http://www.gutenberg.org/2009/agents/37837
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Gerstenberg
+description: The clod, by Lewis Beach. -- Eugencially speaking, by Edward Goodman.
+  -- Ovetrones, by Alice Gerstenberg. -- Helena's husband, by Philip Moeller.
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'One-act plays'
+- !lcc 'PS'
+- !lcsh 'American drama'
+- GITenberg
+tableOfContents: The clod, by Lewis Beach -- Eugenically speaking, by Edward Goodman
+  -- Overtones, by Alice Gerstenberg -- Helena's husband, by Philip Moeller.
+title: Washington Square Plays
+url: http://www.gutenberg.org/ebooks/3068
