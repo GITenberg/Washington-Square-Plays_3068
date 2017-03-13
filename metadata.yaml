@@ -1,5 +1,5 @@
 _repo: Washington-Square-Plays_3068
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Eaton, Walter Prichard
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '31982'
     url: http://www.gutenberg.org/2009/agents/31982
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Moeller, Philip
@@ -30,6 +33,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alice_Gerstenberg
 description: The clod, by Lewis Beach. -- Eugencially speaking, by Edward Goodman.
   -- Ovetrones, by Alice Gerstenberg. -- Helena's husband, by Philip Moeller.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3068#Washington-Square-Plays
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
